@@ -80,24 +80,37 @@ font-size: 45px;
    .section-space-1{
     border-radius: 300px 300px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
-height: 270px;
+height: 290px;
     width: 232px;
+
    }
    .section-space-2{
     border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
-height: 270px;
-
+height: 290px;
     width: 232px;
    }
    .section-space-3{
     border-radius: 300px 300px 0px 0px;
-height: 270px;
+height: 290px;
 background: rgba(71, 125, 17, 0.15);
     width: 232px;
    }
    .main-section-img-1{
-    height: 90%;
-    width: 85%;
-    margin-top: 10px;
+    height: 100%;
+    width: 90%;
+   }
+   .main-section-img-2{
+    height: 100%;
+    width: 90%;
+   }
+   .main-section-img-3{
+    height: 100%;
+    width: 90%;
+   }
+   .item-name {
+margin-top: 15px;
+text-align: center;
+text-decoration-line: underline;
+font-size: 24px;
    }
