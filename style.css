@@ -50,10 +50,16 @@ font-size: 45px;
     justify-content: center;
    }
    /* header-section-2 */
+   .header-end{
+    display: flex;
+    flex-direction: column;
+    /* width: 592px; */
+   }
    .header-section-2{
        text-align: center;
        height: 48px;
        font-size: 40px;
+       margin-top: 200px;
 
 }
 .header-section-2-description{
@@ -62,4 +68,5 @@ font-size: 45px;
     font-size: 18px;
     margin-left: 50px;
     margin-right: 50px;
+    margin-top: 20px;
    }
