@@ -44,7 +44,7 @@ li{
     justify-content: center;
 } */
 .background-img{
-    width: 1280px;
+    width: 100%;
     height: 450px;
     background-image: url(./main-3.png);
     margin-top: 60px;
@@ -62,13 +62,19 @@ li{
     text-align: center;
     font-size: 18px;
  }
+ 
+ .btnn{
+    display: flex;
+    justify-content: center;
+
+ }
+ .last-btn{
+display: inline-block;
+ }
  .email-sec{
     text-align: center;
-    margin-left: 287px;
-    margin-right: 350px;
- }
- .btnn{
-    /* padding-left: 400px; */
+    width: 400px;
+    display: inline-block;
  }
 header{
     background-color: rgba(229, 84, 115, 0.10);
@@ -275,6 +281,9 @@ width: 194px;
     text-align: center;
        height: 48px;
        font-size: 40px;
+}
+footer h3{
+    padding-top: 40px;
 }
 footer{
     background-color: black;
