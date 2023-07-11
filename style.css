@@ -33,16 +33,7 @@ li{
     max-width: 1200px;
     margin: auto;
 }
-/* .container-2{ */
-    /* background-image: url(./main-3.png);
-    height: 400px;
-    width: 830px;
-    margin: 40px 60px;
-    /* justify-content: center; */
-/* } */ 
-/* .cn5{
-    justify-content: center;
-} */
+
 .background-img{
     width: 847px;
     height: 450px;
@@ -50,8 +41,7 @@ li{
     margin-top: 60px;
     margin-left: 178px;
 }
-/* 
- */
+
  .background-img-title{
     text-align: center;
     font-size: 40px;
