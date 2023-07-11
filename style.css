@@ -5,6 +5,14 @@
 /* header section  */
 .nav{
     display: flex;
+    justify-content: center;
+}
+
+.nav li a {
+    color: rgb(29, 28, 28);
+    text-decoration: none;
+    justify-content: center;
+    padding: 34px 23px;
 }
 .conteiner{
     max-width: 1200px;
@@ -203,6 +211,9 @@ width: 194px;
    }
    .main-3-section img{
     justify-content: center;
+    margin-top: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
 
    }
 .header-section-2-2{
