@@ -44,10 +44,11 @@ li{
     justify-content: center;
 } */
 .background-img{
-    width: 100%;
+    width: 847px;
     height: 450px;
     background-image: url(./main-3.png);
     margin-top: 60px;
+    margin-left: 178px;
 }
 /* 
  */
@@ -70,11 +71,19 @@ li{
  }
  .last-btn{
 display: inline-block;
+/* color: #E55473; */
+background: #E55473;
+color: white;
+border: none;
+border-radius: 5px;padding: 20px 25px;
  }
  .email-sec{
     text-align: center;
     width: 400px;
+    height: 48px;
     display: inline-block;
+    /* justify-content: space-between; */
+    border-radius: 5px;
  }
 header{
     background-color: rgba(229, 84, 115, 0.10);
